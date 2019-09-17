@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleComparison": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Admin\\source\\repos\\ImageComp\\ImageComp\\bin\\Debug\\netcoreapp2.1\\win-x64\\111.jpeg C:\\Users\\Admin\\source\\repos\\ImageComp\\ImageComp\\bin\\Debug\\netcoreapp2.1\\win-x64\\firefox1.png"
+    }
+  }
+}

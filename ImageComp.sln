@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleComparison", "ImageComp\ConsoleComparison.csproj", "{3034AC90-C868-41EF-9600-BECA5CFC0A30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageComparison", "ImageComparison\ImageComparison.csproj", "{A48F1279-5368-43A8-9CFF-D5A3379A226A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3034AC90-C868-41EF-9600-BECA5CFC0A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3034AC90-C868-41EF-9600-BECA5CFC0A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3034AC90-C868-41EF-9600-BECA5CFC0A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3034AC90-C868-41EF-9600-BECA5CFC0A30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48F1279-5368-43A8-9CFF-D5A3379A226A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48F1279-5368-43A8-9CFF-D5A3379A226A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48F1279-5368-43A8-9CFF-D5A3379A226A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48F1279-5368-43A8-9CFF-D5A3379A226A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F0222EE-8D61-4558-9090-F3C8D111C81F}
+	EndGlobalSection
+EndGlobal
